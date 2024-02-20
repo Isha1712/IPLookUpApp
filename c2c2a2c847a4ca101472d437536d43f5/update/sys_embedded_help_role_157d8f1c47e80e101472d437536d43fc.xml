@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_974873_ipinfo.ipaddressinfo_user" name="x_974873_ipinfo.ipaddressinfo_user">497d8f1c47e80e101472d437536d43fa</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-20 10:35:12</sys_created_on>
+        <sys_id>157d8f1c47e80e101472d437536d43fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>497d8f1c47e80e101472d437536d43fa</sys_name>
+        <sys_package display_value="IPInfo" source="x_974873_ipinfo">c2c2a2c847a4ca101472d437536d43f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo">c2c2a2c847a4ca101472d437536d43f5</sys_scope>
+        <sys_update_name>sys_embedded_help_role_157d8f1c47e80e101472d437536d43fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-20 10:35:12</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
